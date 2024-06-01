@@ -13,7 +13,7 @@
 // }
 
 // do while loop
-// let score = 1
+// let score = 1 q
 // do {
 //     console.log(`Score is ${score}`);
 //     score++
